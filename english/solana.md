@@ -122,6 +122,10 @@ On December 14th, 2020, the Solana network was down for approximately six hours.
 
 Once Solana was back online it received additional <a href='https://twitter.com/scott_lew_is/status/1334992904264310788?s=21' target='_blank'>criticism</a> because, after 2 hours, no trades had taken place for any non-BTC assets, suggesting that bots make up the majority of the trading volume on Serum and that they had not yet been brought back online. The human traders may have been expressing caution post network outage or perhaps we’re not aware of the network’s recovery. Either way, the large presence of bots bodes well for Solana by suggesting its low transaction fees and high throughput may result in an environment where bots can achieve an increase in efficiency relative to other blockchains. The future of finance will be robotic not human.
 
+In june 2022, Solana was halted for 4 hours becuase of the time drift in the blocks, as Solana works and is scalable becuase of its clock the blockchain went offline and the new patch was psoted quickly by the Solana Labs folks.
+
+Solana is theoretically tested for upto 20000 validator nodes which is a good level of decentralization compared to other blockcahins.
+
 <br>
 
 ## Long Term Team
